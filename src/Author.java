@@ -14,4 +14,5 @@ private final String secondName;
  public String getSecondName() {
      return secondName;
  }
+
 }
